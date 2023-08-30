@@ -1,0 +1,17 @@
+X Create new role for lambda function
+X link to lambda function and s3 bucket
+X read from s3
+X read from s3 on slash command
+X return data read after slash command
+X lambda write file to s3 bucket
+X lambda read file from net
+X lambda format net data
+X change command input
+set lambda timer (last trigger: 2022-05-22T22:53:35.777Z)
+
+-- Further non-essential changes --
+
+Take scuffle round as parameter
+Get discord user id from message
+Store discord user id and roll results
+Return something else if user has already rolled for that round
