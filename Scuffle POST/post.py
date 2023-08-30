@@ -14,7 +14,7 @@ url = "https://discord.com/api/v8/applications/971996284930105395/commands"
 
 # For authorization, you can use either your bot token
 headers = {
-    "Authorization": "Bot OTcxOTk2Mjg0OTMwMTA1Mzk1.GyYma1.DlEEq7VH2_a9tTl-wtySrtU5rzsovOlMNMc2H4"
+    "Authorization": "Bot <token string>"
 }
 
 # r = requests.delete(url, headers=headers)
